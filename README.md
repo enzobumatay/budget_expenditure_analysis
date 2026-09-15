@@ -1,4 +1,4 @@
-# Procurement Spend and Budget Variance Analysis
+# Budget and Procurement Spend Variance Analysis
 ## 🎯 Problem Statement
 XYZ Tech is facing a ₱13.1M overspend over a three-year period against a total approved budget of ₱68.72M. This analysis investigates the drivers of overspending across departments and fiscal years and identifies areas where management can improve spending control and accountability.
 
