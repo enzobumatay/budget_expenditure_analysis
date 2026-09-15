@@ -1,9 +1,8 @@
-Procurement Spend and Budget Variance Analysis
-🎯 Problem Statement
-
+# Procurement Spend and Budget Variance Analysis
+## 🎯 Problem Statement
 XYZ Tech is currently facing a ₱9.34M overspend, representing a 13.6% variance over the approved budget. This analysis investigates the drivers of overspending across departments and fiscal years and identifies areas where management can improve spending control and accountability.
 
-📈 Data
+## 📈 Data
 Source: Simulated 3-year enterprise procurement dataset covering 2023–2025
 Transaction Data: Cleaned and validated approved procurement transactions from ERP_Cleaned
 Budget Data: Department-level approved budgets from Dim_Budgets
@@ -11,8 +10,8 @@ Key variables: Fiscal Year, Department, Expense Category, Raw Amount, Approval S
 Final approved expenditure: ₱78.06M
 Approved budget: ₱68.72M
 
-🛠️ Tools & Methodology
-1️⃣ Python — Data Cleaning & Preparation
+## 🛠️ Tools & Methodology
+### 1️⃣ Python — Data Cleaning & Preparation
 Standardized transaction dates and monetary values
 Removed duplicate records
 Standardized department names and expense categories
@@ -20,34 +19,10 @@ Classified missing department values as Unassigned
 Prepared the cleaned transaction dataset for Power BI analysis
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eedf8e4d-a0e5-49b7-b028-2d3eb094e903" width="500">
+ <img width="1278" height="1230" alt="data cleaning_procurement spend analysis_python" src="https://github.com/user-attachments/assets/74105d2d-a729-4ca2-a32d-656f70611086" />
 </p>
 
-<p align="center">
-  <img width="500" src="https://github.com/user-attachments/assets/f940eb03-ab0d-4c60-81f0-253dbe513e56" />
-</p>
-
-<p align="center">
-  <img width="866" height="375" alt="image" src="https://github.com/user-attachments/assets/7ffaea3a-7301-4b82-a47b-d70aef61d15e" />
-</p>
-
-
-<img width="744" height="332" alt="image" src="https://github.com/user-attachments/assets/f7f4e587-258a-4cb6-b2aa-e1787c6bf3d2" />
-</p>
-
-<p align="center">
-<img width="588" height="659" alt="image" src="https://github.com/user-attachments/assets/3f97afe0-d085-4b65-b2ef-c066d3622b91" />
-</p>
-
-<p align="center">
-<img width="666" height="653" alt="image" src="https://github.com/user-attachments/assets/413c907b-c80f-4238-84f3-743343224f11" />
-</p>
-
-<p align="center">
-<img width="659" height="327" alt="image" src="https://github.com/user-attachments/assets/dad63864-bc9b-4c3b-a266-71ab278b0606" />
-</p>
-
-2️⃣ Power BI — Data Modeling & Dashboard
+### 2️⃣ Power BI — Data Modeling & Dashboard
 Built a relationship between budget and transaction data using a Year + Department composite key
 Created DAX measures for:
 Approved Budget
@@ -57,7 +32,8 @@ Overspend Total
 Variance % of Total Overspend
 Developed an interactive executive dashboard with department and fiscal-year filters
 Added a Clear Filters control for dashboard navigation
-📊 Dashboard
+
+## 📊 Dashboard
 
 Budget and Expenditure Analysis Dashboard
 
@@ -68,7 +44,8 @@ Approved Budget vs Total Expenditure by Department
 Actual Spend vs Budget Timeline
 Budget Allocation by Department
 Department Expenditure by Expense Category
-💡 Key Insights
+
+## 💡 Key Insights
 1. Overall Budget Overspend
 
 Approved expenditure reached ₱78.06M against an approved budget of ₱68.72M, resulting in a ₱9.34M overall variance or 13.6% over budget.
@@ -89,7 +66,7 @@ Approximately ₱2.96M of approved expenditure is classified as Unassigned, mean
 
 HR & Admin spent approximately ₱9.55M against a ₱13.04M budget, indicating substantial unused budget capacity compared with other departments.
 
-🚀 Strategic Recommendations
+## 🚀 Strategic Recommendations
 1. Prioritize cost controls in high-overspend departments
 
 Focus procurement reviews on Facilities & Ops and Marketing & Sales rather than applying uniform cuts across all departments.
