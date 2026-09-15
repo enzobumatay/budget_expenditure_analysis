@@ -17,7 +17,7 @@ Classified missing department values as Unassigned
 Prepared the cleaned transaction dataset for Power BI analysis
 
 <p align="center">
- <img width="1278" height="1230" alt="data cleaning_procurement spend analysis_python" src="https://github.com/user-attachments/assets/74105d2d-a729-4ca2-a32d-656f70611086" />
+<img width="1536" height="1024" alt="data cleaning_procurement spend analysis_python" src="https://github.com/user-attachments/assets/aee69c11-889d-4ab8-8896-0d95a6c18101" />
 </p>
 
 ### 2️⃣ Power BI — Data Modeling & Dashboard
