@@ -3,12 +3,10 @@
 XYZ Tech is currently facing a ₱9.34M overspend, representing a 13.6% variance over the approved budget. This analysis investigates the drivers of overspending across departments and fiscal years and identifies areas where management can improve spending control and accountability.
 
 ## 📈 Data
-Source: Simulated 3-year enterprise procurement dataset covering 2023–2025
-Transaction Data: Cleaned and validated approved procurement transactions from ERP_Cleaned
-Budget Data: Department-level approved budgets from Dim_Budgets
-Key variables: Fiscal Year, Department, Expense Category, Raw Amount, Approval Status, Vendor, and Transaction Date
-Final approved expenditure: ₱78.06M
-Approved budget: ₱68.72M
+- Source: Simulated 3-year enterprise procurement dataset covering 2023–2025
+- Transaction Data: Cleaned and validated approved procurement transactions from ERP_Cleaned
+- Budget Data: Department-level approved budgets from Dim_Budgets
+- Key variables: Fiscal Year, Department, Expense Category, Raw Amount, Approval Status, Vendor, and Transaction Date
 
 ## 🛠️ Tools & Methodology
 ### 1️⃣ Python — Data Cleaning & Preparation
