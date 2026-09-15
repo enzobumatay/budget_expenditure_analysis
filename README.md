@@ -37,6 +37,10 @@ Added a Clear Filters control for dashboard navigation
 
 Budget and Expenditure Analysis Dashboard
 
+<p align="center">
+<img width="1352" height="767" alt="image" src="https://github.com/user-attachments/assets/50cf5ede-ad25-4a87-9a25-73852fbc6cbb" />
+</p>
+
 The dashboard provides an executive-level view of budget performance, expenditure trends, departmental overspending, and expense-category composition.
 
 Key Dashboard Views
@@ -47,24 +51,34 @@ Department Expenditure by Expense Category
 
 ## 💡 Key Insights
 1. Overall Budget Overspend
-
-Approved expenditure reached ₱78.06M against an approved budget of ₱68.72M, resulting in a ₱9.34M overall variance or 13.6% over budget.
+- Approved expenditure reached ₱78.06M against an approved budget of ₱68.72M, resulting in a ₱9.34M overall variance or 13.6% over budget and a overspend total of ₱13.1M.
+<p align="center">
+<img width="1514" height="109" alt="image" src="https://github.com/user-attachments/assets/0e67d89f-7502-4d1a-9e9b-c9b47bf73eb2" />
+</p>
 
 2. Overspending is concentrated
+- The largest departmental expenditure pressures are concentrated in **Facilities & Ops and Marketing & Sales**, making these departments the primary areas for cost-control investigation. Further, approximately ₱2.96M of approved expenditure is classified as Unassigned, meaning the transactions cannot currently be attributed to a department.
 
-The largest departmental expenditure pressures are concentrated in Facilities & Ops and Marketing & Sales, making these departments the primary areas for cost-control investigation.
+<p align="center">
+<img width="633" height="409" alt="image" src="https://github.com/user-attachments/assets/8b629955-a33a-4758-90ac-ca1577c42079" />
+</p>
+
+- HR & Admin spent approximately ₱9.55M against a ₱13.04M budget, indicating substantial unused budget capacity compared with other departments.
 
 3. 2024 was the highest-spending year
+- Total expenditure peaked in 2024 at approximately ₱28.45M, compared with an approved budget of approximately ₱22.88M.
+<p align="center">
+<img width="613" height="408" alt="image" src="https://github.com/user-attachments/assets/401be3a1-6371-448c-b663-ac32f494f3a2" />
+</p>
 
-Total expenditure peaked in 2024 at approximately ₱28.45M, compared with an approved budget of approximately ₱22.88M.
-
-4. Unassigned expenditure creates an accountability gap
-
-Approximately ₱2.96M of approved expenditure is classified as Unassigned, meaning the transactions cannot currently be attributed to a department.
-
-5. HR & Admin is under budget
-
-HR & Admin spent approximately ₱9.55M against a ₱13.04M budget, indicating substantial unused budget capacity compared with other departments.
+4. Major cost categories
+- Hardware Procurement and Software Licenses are the two highest-spending expense categories across the three-year period.
+- Office Supplies and Digital Advertising are the next largest contributors to overall expenditure.
+- The concentration of spending in these categories suggests opportunities to review vendor pricing, purchasing volumes, recurring contracts, and procurement controls.
+- Hardware Procurement is particularly worth investigating because it represents the largest overall category spend and may offer opportunities for bulk purchasing, vendor consolidation, or contract renegotiation.
+<p align="center">
+<img width="1710" height="354" alt="image" src="https://github.com/user-attachments/assets/a49f7922-e00e-4c97-a698-938125dd9926" />
+</p>
 
 ## 🚀 Strategic Recommendations
 1. Prioritize cost controls in high-overspend departments
