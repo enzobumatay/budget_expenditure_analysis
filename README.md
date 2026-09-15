@@ -24,7 +24,7 @@ Prepared the cleaned transaction dataset for Power BI analysis
 </p>
 
 <p align="center">
-  <img width="628" src="https://github.com/user-attachments/assets/f940eb03-ab0d-4c60-81f0-253dbe513e56" />
+  <img width="500" src="https://github.com/user-attachments/assets/f940eb03-ab0d-4c60-81f0-253dbe513e56" />
 </p>
 
 <p align="center">
