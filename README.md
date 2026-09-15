@@ -1,6 +1,6 @@
 # Procurement Spend and Budget Variance Analysis
 ## 🎯 Problem Statement
-XYZ Tech is currently facing a ₱9.34M overspend, representing a 13.6% variance over the approved budget. This analysis investigates the drivers of overspending across departments and fiscal years and identifies areas where management can improve spending control and accountability.
+XYZ Tech is currently facing a ₱13.1 overspend. This analysis investigates the drivers of overspending across departments and fiscal years and identifies areas where management can improve spending control and accountability.
 
 ## 📈 Data
 - Source: Simulated 3-year enterprise procurement dataset covering 2023–2025
