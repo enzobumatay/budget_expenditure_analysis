@@ -82,13 +82,13 @@ Department Expenditure by Expense Category
 
 ## 🚀 Strategic Recommendations
 1. Prioritize cost controls in high-overspend departments
--- Focus procurement reviews on Facilities & Ops and Marketing & Sales rather than applying uniform cuts across all departments.
+ - Focus procurement reviews on Facilities & Ops and Marketing & Sales rather than applying uniform cuts across all departments.
 
 2. Investigate the 2024 spending spike
--- Review the transactions, vendors, and expense categories behind the 2024 increase to determine whether the spike resulted from one-time purchases, project requirements, or procurement-control issues.
+ - Review the transactions, vendors, and expense categories behind the 2024 increase to determine whether the spike resulted from one-time purchases, project requirements, or procurement-control issues.
 
 3. Eliminate Unassigned expenditure
--- Make department classification mandatory for financial transactions to improve budget accountability and reporting accuracy.
+ - Make department classification mandatory for financial transactions to improve budget accountability and reporting accuracy.
 
 4. Review major expense categories
--- Analyze high-spend categories such as Hardware Procurement and Software Licenses for opportunities involving vendor negotiations, consolidation, or purchasing controls.
+ - Analyze high-spend categories such as Hardware Procurement and Software Licenses for opportunities involving vendor negotiations, consolidation, or purchasing controls.
